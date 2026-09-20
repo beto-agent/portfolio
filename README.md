@@ -46,12 +46,6 @@ git remote add origin https://github.com/beto-agent/portfolio.git
 git push -u origin main
 ```
 
-**Option B — GitHub Web UI:**
-
-1. On the repo page, click "uploading an existing file"
-2. Drag and drop all files maintaining the folder structure
-3. Click "Commit changes"
-
 ### Step 3: Enable GitHub Pages
 
 1. Go to repo **Settings** → **Pages**
@@ -94,7 +88,7 @@ These items are marked with `TODO` in the source files:
 | Earlier work positions | `index.html`, `profile.json` | ❌ Optional — pre-1999 roles if relevant |
 | Recent certifications | `index.html`, `profile.json` | ❌ Optional — CCNA, AWS, Azure, etc. |
 | Salary expectations | `profile.json` | ❌ Optional — for structured data |
-| Phone number | `index.html`, `profile.json` | ⚠️ Currently using `(737) 222-3140` — confirm |
+| Phone number | `index.html`, `profile.json` | ⚠️ Omitido por decisión del dueño — no publicar teléfono |
 
 ## Design Notes
 
