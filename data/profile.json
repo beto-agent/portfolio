@@ -3,10 +3,11 @@
   "title": "IT Infrastructure & Technical Support Professional",
   "location": "Austin, TX area",
   "phone": null,
-  "email": "beto-agent@agentmail.to",
-  "linkedin": null,
-  "github": "TODO_GITHUB_URL",
+  "email": "gmiranda.tito.pr@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/gmd-tito/",
+  "github": "https://github.com/beto-agent",
   "summary": "IT professional with 20+ years in telecommunications, network engineering, and technical support. 89.98% truck roll prevention rate. Seeking remote/hybrid roles and freelance projects.",
+
 
   "skills": {
     "primary": [
@@ -31,6 +32,7 @@
       "Obsidian / Markdown (documentation)"
     ]
   },
+
 
   "experience": [
     {
@@ -62,72 +64,4 @@
     }
   ],
 
-  "education": [
-    {
-      "degree": "Bachelor of Information Technology",
-      "institution": "Universidad de Puerto Rico — Mayagüez (UPR-MAY)",
-      "year": "1997"
-    }
-  ],
-
-  "certifications": [
-    "CompTIA Network+",
-    "CompTIA A+ Certified Service Professional",
-    "Microsoft Certified Professional (MCP)"
-  ],
-
-  "languages": [
-    { "language": "English", "level": "Professional working proficiency" },
-    { "language": "Spanish", "level": "Native" }
-  ],
-
-  "projects": [
-    {
-      "name": "Hermes v4 — Personal Automation System",
-      "type": "Personal / Infrastructure",
-      "problem": "After 4 failed attempts with OpenClaw and earlier Hermes versions, needed a reliable personal system to automate finances, sync data across cloud and local storage, and maintain operational continuity.",
-      "solution": "Designed and built a WSL2-based automation stack with unidirectional sync (rclone), scheduled cron jobs, and Obsidian-based documentation. Implemented checkpoint-based continuity.",
-      "stack": ["WSL2", "rclone", "Python", "Bash", "Cron", "Obsidian", "Google Drive API", "NVIDIA NIM"],
-      "result": "20+ days of uninterrupted automated operation. Daily sync, financial tracking, and status reporting without manual intervention. Under 5 minutes/day maintenance."
-    },
-    {
-      "name": "89.98% Truck Roll Prevention Rate",
-      "type": "Production / Support",
-      "problem": "Business clients at Spectrum frequently required on-site technician visits for issues that could be resolved remotely.",
-      "solution": "Developed deep diagnostic workflows for voice, video, and data services over coaxial and fiber infrastructure. Guided non-technical users through self-service tools and remote diagnostics.",
-      "stack": ["Spectrum Business Platform", "VoIP diagnostics", "Remote Desktop", "Ticketing System"],
-      "result": "89.98% truck roll prevention rate across 4,100+ annual interactions, with 4.03/5 tech satisfaction score."
-    },
-    {
-      "name": "Multi-Site LAN/WAN Deployment",
-      "type": "Consulting / Infrastructure",
-      "problem": "Small and medium businesses needed reliable, scalable network infrastructure across multiple physical sites with limited budgets.",
-      "solution": "Designed and deployed LAN/WAN environments for businesses with 100+ users. Handled physical installation, server configuration, network segmentation, and monitoring.",
-      "stack": ["Cisco/HP switches", "Windows Server", "VMware/Hyper-V", "Active Directory", "DNS/DHCP", "VPN"],
-      "result": "Delivered stable multi-site networks with documented monitoring protocols and disaster recovery procedures."
-    },
-    {
-      "name": "YouTube Knowledge Base & Tonal Analysis",
-      "type": "Personal / Data",
-      "problem": "Accumulated hundreds of YouTube transcripts but had no structured way to organize, evaluate, or extract value from them.",
-      "solution": "Built an automated pipeline that organizes transcripts into a structured vault (Obsidian), evaluates content quality using tonal analysis, and filters out low-value material.",
-      "stack": ["Python", "Obsidian", "YouTube Data API", "Custom tonal evaluation scripts"],
-      "result": "Processed 500+ transcripts, identified 80% as reliable sources, built a searchable personal knowledge base."
-    }
-  ],
-
-  "availability": {
-    "status": "open",
-    "types": ["full-time", "contract", "freelance"],
-    "roles": ["infrastructure", "support engineering", "network operations"],
-    "remote": true,
-    "hybrid": true,
-    "relocation": "possible for the right opportunity"
-  },
-
-  "meta": {
-    "version": "1.0.0",
-    "last_updated": "2026-05-19",
-    "source": "Verified professional experience. No AI-generated claims."
-  }
 }
