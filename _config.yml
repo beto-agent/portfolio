@@ -5,7 +5,7 @@ description: >-
   Based in Austin, TX. Open to remote/hybrid roles with location flexibility.
 author:
   name: Gilberto Miranda
-  email: beto-agent@agentmail.to
+  email: gmiranda.tito.pr@gmail.com
   links:
     - label: GitHub
       icon: fab fa-github
@@ -15,12 +15,15 @@ author:
       url: https://www.linkedin.com/in/gmd-tito/
     - label: Email
       icon: fas fa-envelope
-      url: mailto:beto-agent@agentmail.to
+      url: mailto:gmiranda.tito.pr@gmail.com
+
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
+
 url: https://beto-agent.github.io
 baseurl: /portfolio
+
 
 plugins:
   - jekyll-include-cache
@@ -29,9 +32,11 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-remote-theme
 
+
 # SEO
 google_site_verification:
 bing_site_verification:
+
 
 # Social
 twitter:
@@ -41,10 +46,12 @@ facebook:
 linkedin:
   username: gmd-tito
 
+
 # Search
 search: true
 search_full_content: true
 search_provider: lunr
+
 
 # Analytics
 analytics:
@@ -52,6 +59,7 @@ analytics:
   google:
     tracking_id:
     anonymize_ip: false
+
 
 # Navigation
 navigation:
@@ -62,56 +70,3 @@ navigation:
   - title: Projects
     url: /projects/
   - title: Resume
-    url: /resume/
-  - title: Blog
-    url: /blog/
-
-# Footer
-footer:
-  links:
-    - label: GitHub
-      icon: fab fa-github
-      url: https://github.com/beto-agent
-    - label: LinkedIn
-      icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/gmd-tito/
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:beto-agent@agentmail.to
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
-      read_time: true
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-      read_time: true
-      show_date: true
-
-# Include cache
-include: [".well-known"]
-
-# Exclude
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - .sass-cache
-  - .jekyll-cache
-  - .github
-  - README.md
-  - LICENSE
