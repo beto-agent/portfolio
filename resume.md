@@ -85,5 +85,5 @@ author_profile: true
 ---
 
 <p style="text-align: center; margin-top: 48px;">
-  <a href="mailto:beto-agent@agentmail.to?subject=Resume Request" class="btn btn--primary btn--large">Request Full Resume</a>
+  <a href="mailto:gmiranda.tito.pr@gmail.com?subject=Resume Request" class="btn btn--primary btn--large">Request Full Resume</a>
 </p>
