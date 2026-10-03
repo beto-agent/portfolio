@@ -13,7 +13,7 @@ I'm an IT professional with over two decades of hands-on experience in telecommu
 ## Currently
 
 
-At **Charter Communications (Spectrum)** in Austin, TX, I handle complex business-tier support — resolving voice, video, and data issues while preventing unnecessary field dispatches at a **89.98% rate** across **4,100+** annual interactions with a 4.03/5 tech satisfaction score. On track for **Technical Support II** promotion.
+At **Charter Communications (Spectrum)** in Austin, TX, I handle complex business-tier support — resolving voice, video, and data issues while preventing unnecessary field dispatches at a **89.98% rate** across **4,100+** annual interactions with a 4.03/5 tech satisfaction score.
 
 
 ## Previously
@@ -33,7 +33,7 @@ As an independent IT infrastructure consultant in Puerto Rico, I designed and ma
 
 - Remote Troubleshooting & Incident Management
 - LAN/WAN Administration & Network Analysis
-- VoIP Diagnóstico & Diagnostics
+- VoIP Diagnostics
 - Virtualization (VMware, Hyper-V)
 - System Monitoring & Disaster Recovery
 - Windows Server Administration
