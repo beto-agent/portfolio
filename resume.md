@@ -17,7 +17,6 @@ author_profile: true
 - Manage **4,100+** technical interactions annually with a **4.03/5** tech satisfaction score.
 - Document issues and resolutions in the internal knowledge base for team reference.
 - Guide non-technical users through self-service tools, even under high-stress conditions.
-- **On track for Technical Support II promotion** — expanding scope to escalated tier support.
 
 ### IT Infrastructure Manager / Independent Consultant
 **San Juan, PR / Remote**
@@ -37,6 +36,7 @@ author_profile: true
 - Achieved 20+ days of uninterrupted automated operation with under 5 minutes/day maintenance.
 - Built an automated pipeline that processes YouTube transcripts into a structured knowledge base (Obsidian), evaluating content quality via tonal analysis — 500+ transcripts processed.
 - Integrated LLM APIs (NVIDIA NIM, OpenRouter) for automated reasoning and content generation.
+- *Sep 2026: consolidated personal AI stack on Meta Muse ("Atlas"); Hermes-Agent and OpenClaw retired from active use.*
 
 ---
 
