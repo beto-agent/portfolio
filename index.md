@@ -16,7 +16,7 @@ header:
 
 IT professional with **20+ years** solving complex infrastructure and support problems in telecommunications and networking. I help businesses stay connected — remotely, efficiently, and without unnecessary downtime.
 
-Currently at **Charter Communications (Spectrum)** in Austin, TX, handling complex business-tier support with an **89.98% truck roll prevention rate** across **4,100+** annual interactions. On track for **Technical Support II** promotion.
+Currently at **Charter Communications (Spectrum)** in Austin, TX, handling complex business-tier support with an **89.98% truck roll prevention rate** across **4,100+** annual interactions.
 
 Previously an independent IT infrastructure consultant in Puerto Rico, designing and maintaining LAN/WAN environments for businesses with 100+ users across multiple sites.
 
