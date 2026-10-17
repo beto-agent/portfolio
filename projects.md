@@ -10,6 +10,21 @@ Selected work — from production systems to personal automation.
 
 ---
 
+## Atlas — Personal AI Agent
+*Personal / AI Automation*
+
+**Problem:** Email, research, scheduling, and task tracking ate hours every day — and juggling multiple AI agents (Hermes-Agent, OpenClaw) added maintenance overhead instead of removing it.
+
+**Solution:** Consolidated on a single AI agent (Meta Muse, "Atlas") governed by explicit operating rules: what it may do autonomously (archive promotions, draft replies, run research) versus what requires approval. Delegated inbox triage, a daily email digest with urgent detection, research tasks, and scheduling follow-ups.
+
+**Stack:** Meta Muse, Gmail/Workspace APIs, prompt engineering, documented operating rules
+
+**Result:** Inbox reduced from **365 threads / 286 unread to 27 conversations / 15** in three passes; **91 promotional emails archived**; 15+ mailing lists unsubscribed; automated daily digest with urgent detection running.
+
+**Status:** Current stack since Sep 2026.
+
+---
+
 ## Hermes v4 — Personal Automation System
 *Personal / Infrastructure*
 
